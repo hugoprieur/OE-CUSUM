@@ -1,38 +1,9 @@
 /*
 
-
-
 O-E CUSUM GRAPH SAS Code v1.0, 11/10/2024
 This code is also available in the appendix of the original manuscript
 
-Draws the O-E CUSUM graph of a given dataset of procedures into a png file.
-
-
-
-Inputs :
-> CUSUM Parameters
-> Table of procedures including the following variables :
-	- Number of the procedure in the dataset
-	- Expected probability of event
-	- Observed event
-
-Output :
-> png file of a O-E CUSUM graph
-
-
-
-Summary :
-> Parameters
-	CUSUM parameters for the detection of signals and output parameters, including path, name and size of the output file
-> Sample data
-	A table of simulated data is provided for testing the code.
-> O-E, CUSUM scores and signals
-	Calculation of the observed minus expected values, CUSUM scores, and CUSUM signals of improvement or deterioration
-> Annomac tables
-	Creation of datasets for the different graphic elements that will be drawn by the annotate procedure
-> Graph file output
-
-
+README.md for inputs & output & summary of the code
 
 */
 
