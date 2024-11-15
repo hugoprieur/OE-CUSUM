@@ -1,10 +1,16 @@
 # O-E CUSUM GRAPH SAS Code
 
+_v1.0, 11/10/2024_
+
 **A Risk-Adjusted Observed minus Expected CUmulative SUM (RA O-E CUSUM) Chart for Visualization and Monitoring of Surgical Outcomes**
 
-This code is also available in the appendix of the original manuscript.
+Quentin Cordier, Hugo Prieur, Antoine Duclos ; TopSurgeons Study Group
 
-_v1.0, 11/10/2024_
+Health Data Department, Hospices Civils de Lyon, 69003 Lyon, France  
+Research on Healthcare Performance RESHAPE, INSERM U1290, Université Claude Bernard Lyon 1, 69008 Lyon, France  
+Université Paris Cité, Centre for Research in Epidemiology and Statistics (CRESS), METHODS Team, Paris, France
+
+This code is also available in the appendix of the original manuscript.
 
 ---
 Draws the O-E CUSUM graph of a given dataset of procedures into a png file.
