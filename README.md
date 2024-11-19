@@ -10,7 +10,7 @@ Health Data Department, Hospices Civils de Lyon, 69003 Lyon, France
 Research on Healthcare Performance RESHAPE, INSERM U1290, Université Claude Bernard Lyon 1, 69008 Lyon, France  
 Université Paris Cité, Centre for Research in Epidemiology and Statistics (CRESS), METHODS Team, Paris, France
 
-This code is also available in the appendix of the original manuscript.
+This code is also available in the appendix of the original manuscript (doi:10.1136/bmjqs-2024-017935).
 
 ---
 Draws the O-E CUSUM graph of a given dataset of procedures into a png file.
